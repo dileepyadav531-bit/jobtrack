@@ -127,6 +127,37 @@ View Applicant & Job Information
    ↓
 Update Application Status
 ```
+## Screenshots
+
+### User Interface
+
+#### Login
+![Login](screenshots/login.png)
+
+#### Available Jobs
+![Available Jobs](screenshots/available-jobs.png)
+
+#### Available Jobs - User View
+![Available Jobs - User View](screenshots/available-jobs-2.png)
+
+#### Job Details
+![Job Details](screenshots/job-details.png)
+
+#### My Applications
+![My Applications](screenshots/my-applications.png)
+
+### Admin Interface
+
+#### Admin Job Management
+![Admin Job Management](screenshots/admin-add-job-management.png)
+
+#### Existing Jobs
+![Existing Jobs](screenshots/existing-jobs.png)
+
+#### All Applications
+![All Applications](screenshots/all-applications-1.png)
+
+![All Applications](screenshots/all-applications-2.png)
 
 ## Security
 
